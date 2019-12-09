@@ -1,5 +1,7 @@
 # to_do
 
+![](to-do.gif)
+
 A new Flutter project.
 
 ## Getting Started
